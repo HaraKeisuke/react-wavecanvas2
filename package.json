@@ -1,7 +1,7 @@
 {
   "name": "wavecanvas",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.0.1",
+  "private": false,
   "main": "src/wavecanvas.js",
   "dependencies": {
     "react": "^16.4.2",
